@@ -1,0 +1,11 @@
+# Cac file appcast duoc KY bang Ed25519 va chu ky nam trong file .signature di kem.
+# Chu ky tinh tren TUNG BYTE cua file. Neu git tu doi LF <-> CRLF khi commit hay
+# khi checkout thi byte doi theo -> chu ky khong con khop -> ung dung KHONG BAO GIO
+# thay ban cap nhat, va khong co thong bao loi nao chi ra nguyen nhan.
+#
+# May phat hanh dat core.autocrlf=true, nen KHONG co dong nay la som muon cung hong.
+#
+# Dung mau '*' de khi them kien truc moi thi khong phai nho sua file nay - quen mot
+# dong la hong am tham o dung nen tang do.
+appcast*.xml            -text
+appcast*.xml.signature  -text
