@@ -6,7 +6,10 @@
     <description>Auto-update feed for ExamSheet on macOS (Intel)</description>
     <language>vi</language>
 
-  <item><title>Version 1.0.2</title><pubDate>Tue, 08 Sep 2026 13:28:51 +0700</pubDate><sparkle:version>1.0.2</sparkle:version><description><![CDATA[
+  <item><title>Version 1.0.3</title><pubDate>Wed, 09 Sep 2026 10:53:05 +0700</pubDate><sparkle:version>1.0.3</sparkle:version><description><![CDATA[
+        <h3>Version 1.0.3</h3>
+        <p>Trang Giới thiệu dựng lại. Thẻ mở đầu mang màu riêng của ExamSheet, kèm thẻ Liên hệ mới: bấm một cái là mở trình soạn thư đã điền sẵn phiên bản, hệ điều hành và ngôn ngữ, máy không cài phần mềm thư thì địa chỉ được chép vào bộ nhớ tạm. Thêm ba thẻ giới thiệu các chương trình còn lại của bộ Exam*: ExamMixer trộn đề, ExamScan chấm bài, ExamInsight phân tích kết quả. Liên kết tải tự đổi theo nền tảng đang chạy.</p>
+      ]]></description><enclosure url="https://github.com/viettien117/ExamSheet_macOS_updates/releases/download/v1.0.3/ExamSheet-1.0.3-osx-x64.zip" length="52689331" type="application/octet-stream" sparkle:version="1.0.3" sparkle:os="macos" sparkle:edSignature="Mq8pWVfl37k/XuxaoCWpE5bMmvWXm43Iw92wgnxglfkqEaJoh6V6DRtWSWXF1TfpMsA5U4NMgRd1lAh5m7y4Cw==" /></item><item><title>Version 1.0.2</title><pubDate>Tue, 08 Sep 2026 13:28:51 +0700</pubDate><sparkle:version>1.0.2</sparkle:version><description><![CDATA[
         <h3>Version 1.0.2</h3>
         <p>Thêm dòng nhắc ở phần chọn logo: nên tránh logo tròn nhiều vòng đồng tâm (huy hiệu câu lạc bộ, con dấu nhà trường), vì bộ chấm của ExamScan có thể nhận nhầm chúng là dấu góc của phiếu. Dù lỗi đã được sửa tận gốc bên ExamScan, người dùng vẫn nên chấm thử một phiếu trước khi in cả xấp.</p>
       ]]></description><enclosure url="https://github.com/viettien117/ExamSheet_macOS_updates/releases/download/v1.0.2/ExamSheet-1.0.2-osx-x64.zip" length="52682935" type="application/octet-stream" sparkle:version="1.0.2" sparkle:os="macos" sparkle:edSignature="e+zaXt4U1jyIGRsjXLLD3hH1T2XzwXkw1Kf/pxz/w0drl+8WqrA8TsMvUgtVlpO9VJaW2e2o3CUy/HtJ3DjKAA==" /></item><item><title>Version 1.0.1</title><pubDate>Mon, 07 Sep 2026 16:57:04 +0700</pubDate><sparkle:version>1.0.1</sparkle:version><description><![CDATA[
