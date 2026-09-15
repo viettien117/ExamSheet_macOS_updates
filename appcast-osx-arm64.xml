@@ -6,7 +6,10 @@
     <description>Auto-update feed for ExamSheet on macOS (Apple Silicon)</description>
     <language>vi</language>
 
-  <item><title>Version 1.0.3</title><pubDate>Wed, 09 Sep 2026 10:53:03 +0700</pubDate><sparkle:version>1.0.3</sparkle:version><description><![CDATA[
+  <item><title>Version 1.0.4</title><pubDate>Tue, 15 Sep 2026 21:05:10 +0700</pubDate><sparkle:version>1.0.4</sparkle:version><description><![CDATA[
+        <h3>Version 1.0.4</h3>
+        <p>Trang Trắc nghiệm gọn và dễ dùng hơn. Mã đề chỉ còn 3 hoặc 4 chữ số, số đáp án từ 3 đến 6. Đổi số đáp án là khung vẽ lại ngay, không cần bấm Vẽ khung. Số dòng tự luận chọn từ 10 đến 15, khoảng cách giữa các dòng rộng gần gấp đôi cho dễ viết tay. Các ô cấu hình xếp lại thành hai hàng thẳng cột, nút Vẽ khung nằm bên phải.</p>
+      ]]></description><enclosure url="https://github.com/viettien117/ExamSheet_macOS_updates/releases/download/v1.0.4/ExamSheet-1.0.4-osx-arm64.zip" length="50473963" type="application/octet-stream" sparkle:version="1.0.4" sparkle:os="macos" sparkle:edSignature="py/qL91dDyWXLLqOzG5cb9FWMT+db3UiQQk2XBGN+2JCh2wfuF+BAFF4cI9K/suw68x7zEtYAN9zmoAO6gJKCA==" /></item><item><title>Version 1.0.3</title><pubDate>Wed, 09 Sep 2026 10:53:03 +0700</pubDate><sparkle:version>1.0.3</sparkle:version><description><![CDATA[
         <h3>Version 1.0.3</h3>
         <p>Trang Giới thiệu dựng lại. Thẻ mở đầu mang màu riêng của ExamSheet, kèm thẻ Liên hệ mới: bấm một cái là mở trình soạn thư đã điền sẵn phiên bản, hệ điều hành và ngôn ngữ, máy không cài phần mềm thư thì địa chỉ được chép vào bộ nhớ tạm. Thêm ba thẻ giới thiệu các chương trình còn lại của bộ Exam*: ExamMixer trộn đề, ExamScan chấm bài, ExamInsight phân tích kết quả. Liên kết tải tự đổi theo nền tảng đang chạy.</p>
       ]]></description><enclosure url="https://github.com/viettien117/ExamSheet_macOS_updates/releases/download/v1.0.3/ExamSheet-1.0.3-osx-arm64.zip" length="50474017" type="application/octet-stream" sparkle:version="1.0.3" sparkle:os="macos" sparkle:edSignature="PR7WUWiFbBMttdTv0DQVuMAw4KC4kS76erQB/G5ouf8O0Z4sTZA+eWuwQMWI1hmMWbJ8ZPoU5tsL0ww/2VD1Ag==" /></item><item><title>Version 1.0.2</title><pubDate>Tue, 08 Sep 2026 13:28:50 +0700</pubDate><sparkle:version>1.0.2</sparkle:version><description><![CDATA[
