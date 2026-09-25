@@ -6,7 +6,19 @@
     <description>Auto-update feed for ExamSheet on macOS (Apple Silicon)</description>
     <language>vi</language>
 
-  <item><title>Version 1.0.4</title><pubDate>Tue, 15 Sep 2026 21:05:10 +0700</pubDate><sparkle:version>1.0.4</sparkle:version><description><![CDATA[
+  <item><title>Version 1.0.6</title><pubDate>Fri, 25 Sep 2026 14:10:09 +0700</pubDate><sparkle:version>1.0.6</sparkle:version><description><![CDATA[
+        <h3>Version 1.0.6</h3>
+        <p>Trang Phiếu hoàn chỉnh được thiết kế lại cho gọn và dễ dùng hơn.
+
+• Nút In phiếu và bốn nút Xuất PNG / PDF / Word / Xuất tất cả nằm chung một hàng, có biểu tượng. Cửa sổ hẹp thì các nút xuất tự thu lại chỉ còn biểu tượng (rê chuột để xem tên).
+• Bỏ nút Cập nhật phiếu: vào trang là phiếu tự vẽ lại theo mọi thay đổi.
+• Thanh thu phóng nổi ở đáy: Vừa ngang, Vừa dọc, Vừa khung, 100%, nút − / +. Rê chuột lên phiếu hiện bàn tay, giữ chuột để kéo phiếu như trình xem ảnh.
+• Bật Dùng logo mà chưa chọn ảnh thì phiếu dùng sẵn logo ExamScan kèm chữ ExamScan. Ô logo tối đa hình vuông nên logo không còn bị kéo dài.
+• Chữ Graded by ExamScan trên phiếu to hơn. Xuất PDF nhanh hơn nhiều (dưới 1 giây).
+• Ô Số câu hỏi ở bước 4 báo ngay khi gõ số ngoài 1–60 hoặc gõ chữ. Nếu số câu ở bước 4 không hợp lệ, trang Phiếu hoàn chỉnh nói rõ phiếu đang dùng bao nhiêu câu, để không in nhầm cả xấp phiếu.
+• Cửa sổ hẹp: trang Thông tin không còn ô bị đè lên nhau — hai cột quảng cáo tự thu nhỏ nhường chỗ; nút Chọn hình logo tự xuống dòng, không còn cụt chữ.
+• Nút Mặc định ở trang Thông tin thẳng mép phải; ngôn ngữ xếp VI / EN / PT / ES / ID như các app khác của bộ Exam*; trang Giới thiệu đổi màu thống nhất cả bộ.</p>
+      ]]></description><enclosure url="https://github.com/viettien117/ExamSheet_macOS_updates/releases/download/v1.0.6/ExamSheet-1.0.6-osx-arm64.zip" length="50984700" type="application/octet-stream" sparkle:version="1.0.6" sparkle:os="macos" sparkle:edSignature="nwRl0dcn6SufEZX7yli4w92Rx7lxLxTdm3aTarSys9p43gE5L2PRjlhw3WEjojymaQqHAUt8vYr63QTvsoKXDw==" /></item><item><title>Version 1.0.4</title><pubDate>Tue, 15 Sep 2026 21:05:10 +0700</pubDate><sparkle:version>1.0.4</sparkle:version><description><![CDATA[
         <h3>Version 1.0.4</h3>
         <p>Trang Trắc nghiệm gọn và dễ dùng hơn. Mã đề chỉ còn 3 hoặc 4 chữ số, số đáp án từ 3 đến 6. Đổi số đáp án là khung vẽ lại ngay, không cần bấm Vẽ khung. Số dòng tự luận chọn từ 10 đến 15, khoảng cách giữa các dòng rộng gần gấp đôi cho dễ viết tay. Các ô cấu hình xếp lại thành hai hàng thẳng cột, nút Vẽ khung nằm bên phải.</p>
       ]]></description><enclosure url="https://github.com/viettien117/ExamSheet_macOS_updates/releases/download/v1.0.4/ExamSheet-1.0.4-osx-arm64.zip" length="50473963" type="application/octet-stream" sparkle:version="1.0.4" sparkle:os="macos" sparkle:edSignature="py/qL91dDyWXLLqOzG5cb9FWMT+db3UiQQk2XBGN+2JCh2wfuF+BAFF4cI9K/suw68x7zEtYAN9zmoAO6gJKCA==" /></item><item><title>Version 1.0.3</title><pubDate>Wed, 09 Sep 2026 10:53:03 +0700</pubDate><sparkle:version>1.0.3</sparkle:version><description><![CDATA[
