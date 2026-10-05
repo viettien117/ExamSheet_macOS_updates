@@ -6,7 +6,12 @@
     <description>Auto-update feed for ExamSheet on macOS (Apple Silicon)</description>
     <language>vi</language>
 
-  <item><title>Version 1.0.6</title><pubDate>Fri, 25 Sep 2026 14:10:09 +0700</pubDate><sparkle:version>1.0.6</sparkle:version><description><![CDATA[
+  <item><title>Version 1.0.7</title><pubDate>Mon, 05 Oct 2026 12:11:53 +0700</pubDate><sparkle:version>1.0.7</sparkle:version><description><![CDATA[
+        <h3>Version 1.0.7</h3>
+        <p>• Tiêu đề khung Mã số sinh viên / Mã đề thi tự thu nhỏ chữ khi dài hơn khung, không còn bị cắt (ví dụ "CÓDIGO DEL EXAMEN" tiếng Tây Ban Nha ở mã đề 3 chữ số). Tiêu đề vừa khung thì phiếu giữ nguyên như cũ.
+• Thêm nút ‹ › ở hai mép khung quảng cáo để xem quảng cáo trước hoặc sau, không phải chờ tự chuyển.
+• Ảnh quảng cáo chỉ tải lại khi có thay đổi — mở chương trình tốn ít dung lượng mạng hơn.</p>
+      ]]></description><enclosure url="https://github.com/viettien117/ExamSheet_macOS_updates/releases/download/v1.0.7/ExamSheet-1.0.7-osx-arm64.zip" length="50986865" type="application/octet-stream" sparkle:version="1.0.7" sparkle:os="macos" sparkle:edSignature="TOx9tgoXKjb++9rHOGe7mbZiGWuxEp646LoAopMMhHwZ7cjwxkI5FK54URx8LMYqR7MdNg/jlDuhGa8GUTYPBg==" /></item><item><title>Version 1.0.6</title><pubDate>Fri, 25 Sep 2026 14:10:09 +0700</pubDate><sparkle:version>1.0.6</sparkle:version><description><![CDATA[
         <h3>Version 1.0.6</h3>
         <p>Trang Phiếu hoàn chỉnh được thiết kế lại cho gọn và dễ dùng hơn.
 
