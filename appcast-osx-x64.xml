@@ -6,7 +6,13 @@
     <description>Auto-update feed for ExamSheet on macOS (Intel)</description>
     <language>vi</language>
 
-  <item><title>Version 1.0.9</title><pubDate>Sat, 17 Oct 2026 13:34:16 +0700</pubDate><sparkle:version>1.0.9</sparkle:version><description><![CDATA[
+  <item><title>Version 1.0.10</title><pubDate>Thu, 29 Oct 2026 12:26:09 +0700</pubDate><sparkle:version>1.0.10</sparkle:version><description><![CDATA[
+        <h3>Version 1.0.10</h3>
+        <p>Khung quảng cáo hiện nhanh hơn.
+
+• Ảnh quảng cáo đã lưu trên máy được dùng lại ngay, không phải chờ tải.
+• Chỉ tải ảnh mới khi nội dung trên máy chủ thật sự thay đổi — tiết kiệm dữ liệu mạng.</p>
+      ]]></description><enclosure url="https://github.com/viettien117/ExamSheet_macOS_updates/releases/download/v1.0.10/ExamSheet-1.0.10-osx-x64.zip" length="53206697" type="application/octet-stream" sparkle:version="1.0.10" sparkle:os="macos" sparkle:edSignature="SCWHg+ceGbjFZmr4f4AIgDDYOpuu8laq5Z4O4bLfwLAfJjrD9oXLM4FFRIE5arqyi6soBJaslFkh/A67LgsTCA==" /></item><item><title>Version 1.0.9</title><pubDate>Sat, 17 Oct 2026 13:34:16 +0700</pubDate><sparkle:version>1.0.9</sparkle:version><description><![CDATA[
         <h3>Version 1.0.9</h3>
         <p>Phiếu có thêm dấu định vị thứ tư.
 
