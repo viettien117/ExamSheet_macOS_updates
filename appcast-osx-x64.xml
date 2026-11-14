@@ -6,7 +6,12 @@
     <description>Auto-update feed for ExamSheet on macOS (Intel)</description>
     <language>vi</language>
 
-  <item><title>Version 1.0.11</title><pubDate>Tue, 10 Nov 2026 10:17:37 +0700</pubDate><sparkle:version>1.0.11</sparkle:version><description><![CDATA[
+  <item><title>Version 1.0.12</title><pubDate>Sat, 14 Nov 2026 13:19:39 +0700</pubDate><sparkle:version>1.0.12</sparkle:version><description><![CDATA[
+        <h3>Version 1.0.12</h3>
+        <p>Nâng cấp trải nghiệm người dùng.
+
+• Cải thiện giao diện, sửa lỗi nhỏ và tăng độ ổn định.</p>
+      ]]></description><enclosure url="https://github.com/viettien117/ExamSheet_macOS_updates/releases/download/v1.0.12/ExamSheet-1.0.12-osx-x64.zip" length="53207773" type="application/octet-stream" sparkle:version="1.0.12" sparkle:os="macos" sparkle:edSignature="F13TqegaGoQ3rgRAty1l9056j1cjnPTUUEG1L8Oi9FMgbdE62J7M1ZG9G2sBswmdQSZg4GU6BmC+Wv4FMYDqCQ==" /></item><item><title>Version 1.0.11</title><pubDate>Tue, 10 Nov 2026 10:17:37 +0700</pubDate><sparkle:version>1.0.11</sparkle:version><description><![CDATA[
         <h3>Version 1.0.11</h3>
         <p>Cập nhật phần Giới thiệu.
 
